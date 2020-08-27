@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961006141607",
+    "firebase_url": "https://andran-tracerx.firebaseio.com",
+    "project_id": "andran-tracerx",
+    "storage_bucket": "andran-tracerx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961006141607:android:ca9edf1b4089c426ae5b82",
+        "android_client_info": {
+          "package_name": "com.ufm.edu.tracerX"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961006141607-gh1l0cqtlvn4cgafq7a8m40pup78m26l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlfy2975H4IHTerZ2Ed_N8iaEb62Hn7KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961006141607-gh1l0cqtlvn4cgafq7a8m40pup78m26l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
